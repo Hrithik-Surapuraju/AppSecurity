@@ -1,5 +1,7 @@
 # Simple AppSec Scanner
 
+NOTE:  This application was developed for company and hence code base is not loaded to GitHuib
+
 `security_scanner.py` is a lightweight Python CLI that demonstrates both:
 
 - `SAST` (Static Application Security Testing): scans source files for risky patterns without executing them
