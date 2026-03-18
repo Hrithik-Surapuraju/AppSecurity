@@ -1,4 +1,4 @@
-# Simple AppSec Scanner
+# AppSec Scanner
 
 NOTE:  This application was developed for company and hence code base is not loaded to GitHuib
 
